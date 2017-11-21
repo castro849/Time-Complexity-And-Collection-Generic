@@ -1,0 +1,7 @@
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\bin\Debug\NotationBig-O.exe.config
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\bin\Debug\NotationBig-O.exe
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\bin\Debug\NotationBig-O.pdb
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\obj\Debug\NotationBig-O.csprojResolveAssemblyReference.cache
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\obj\Debug\NotationBig-O.csproj.CoreCompileInputs.cache
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\obj\Debug\NotationBig-O.exe
+C:\Users\castro\source\repos\NotationBig-O\NotationBig-O\obj\Debug\NotationBig-O.pdb
